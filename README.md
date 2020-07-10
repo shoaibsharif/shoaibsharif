@@ -1,3 +1,6 @@
-My name is Shoaib Sharif. I am a full-stack developer. Currently I am working with **GraphQL, Nestjs, MongoDB and ReactJS**. Very excited to learn more about new technology.
+## Hi there
+
+ I am a full-stack developer.
 
 - Co-founder at **techdiary.dev**
+- Currently I am working with **GraphQL, Nestjs, MongoDB, ReactJS and more...**.
