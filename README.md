@@ -5,7 +5,7 @@
 A full stack developer experience with Laravel and Vue.js. 
 
 - Co-founder at [Techdiary](https://www.techdiary.dev)
-- Full Stack and Lead Developer at [Electronthemes](https://electronthemes.com)
+- Full Stack Developer at [Electronthemes](https://electronthemes.com)
 
 ## Skills
 - **Frontend**: React.js, Vue.js
