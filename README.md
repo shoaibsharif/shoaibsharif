@@ -5,6 +5,7 @@
 A full stack developer experience with Laravel and Vue.js. 
 
 - Co-founder at [Techdiary](https://www.techdiary.dev)
+- Full Stack and Lead Developer at [Electronthemes](https://electronthemes.com)
 
 ## Skills
 - **Frontend**: React.js, Vue.js
@@ -14,6 +15,7 @@ A full stack developer experience with Laravel and Vue.js.
 ## Projects:
 
 - [Snippet](https://snippet.shoaibsharif.dev):
-  You can create code snippet with steps. this website is powered by Laravel REST API that served data with Nuxt.js.
+  You can create code snippet with steps. this website is built on Nuxt.js that served data from Laravel REST API.<br>
+  This project is completely open source. You can [see the code](https://github.com/shoaibsharif/snippet_frontend)
 - [Techdiary](https://www.techdiary.dev):
   A dev.to like developer community for Bangladesh where developers share their programming thoughts and knowledge.
