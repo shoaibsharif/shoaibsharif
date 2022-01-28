@@ -9,7 +9,8 @@ A full stack developer experience with Laravel and Vue.js.
 
 ## Skills
 - **Frontend**: React.js, Vue.js
-- **Backend**: Nest.js, Laravel, Express.js
+- **UI Library**: MaterialUI, TailwindCSS
+- **Backend**: Nest.js, Laravel, Express.js, SQL, Stripe, Webhook, AWS
 - **Frontend Framework**: Nuxtjs, Nextjs
 
 ## Projects:
