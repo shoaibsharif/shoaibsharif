@@ -1,11 +1,10 @@
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=shoaibsharif&theme=tokyonight&show_icons=true"/>](https://github.com/shoaibsharif)
 [![LinkedIn](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shoaibbsharif)
 [![Twitter follow](https://img.shields.io/twitter/follow/ShoaibBinSharif?style=social)](https://twitter.com/ShoaibBinSharif)
 
 A full stack developer experience with Laravel and Vue.js. 
 
 - Co-founder at [Techdiary](https://www.techdiary.dev)
-- Full Stack Developer at [Electronthemes](https://electronthemes.com)
+- Sr. Software Developer at TechOnePlus
 
 ## Skills
 - **Frontend**: React.js, Vue.js
