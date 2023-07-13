@@ -4,7 +4,7 @@
 A full stack developer experience with Laravel and Vue.js. 
 
 - Co-founder at [Techdiary](https://www.techdiary.dev)
-- Sr. Software Developer at TechOnePlus
+- Sr. Software Engineer at TechOnePlus
 
 ## Skills
 - **Frontend**: React.js, Vue.js
