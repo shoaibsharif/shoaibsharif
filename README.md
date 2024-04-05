@@ -1,14 +1,14 @@
 [![LinkedIn](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shoaibbsharif)
 [![Twitter follow](https://img.shields.io/twitter/follow/ShoaibBinSharif?style=social)](https://twitter.com/ShoaibBinSharif)
 
-A full stack developer experience with Laravel and Vue.js. 
+A full stack developer. 
 
 - Co-founder at [Techdiary](https://www.techdiary.dev)
 - Software Engineer at TechOnePlus
 
 ## Skills
 - **Frontend**: React.js, Vue.js
-- **UI Library**: MaterialUI, TailwindCSS
+- **UI Library**: MaterialUI, TailwindCSS, Mantine, NuxtUI
 - **Backend**: Nest.js, Laravel, Express.js, SQL, Stripe, Webhook, AWS
 - **Frontend Framework**: Nuxtjs, Nextjs
 
