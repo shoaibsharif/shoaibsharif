@@ -3,8 +3,7 @@
 
 A full stack developer. 
 
-- Co-founder at [Techdiary](https://www.techdiary.dev)
-- Software Engineer at TechOnePlus
+- Software Engineer at DataBP
 
 ## Skills
 - **Frontend**: React.js, Vue.js
