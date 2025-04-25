@@ -18,3 +18,5 @@ A full stack developer.
   This project is completely open source. You can [see the code](https://github.com/shoaibsharif/snippet_frontend)
 - [Techdiary](https://www.techdiary.dev):
   A dev.to like developer community for Bangladesh where developers share their programming thoughts and knowledge.
+- [Notary.io](https://notary.io)
+  cutting-edge SaaS platform provides secure online notarization and e-signing services across various industries.
